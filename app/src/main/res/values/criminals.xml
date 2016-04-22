@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+        <item >John Cheese</item>
+        <item >Bert</item>
+        <item >Gil G</item>
+    </string-array>
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="Age">
+        <item>20</item>
+        <item>35</item>
+        <item>46</item>
+    </string-array>
+    <string-array name="bounty">
+        <item>50.000</item>
+        <item>100.000</item>
+        <item>250.000</item>
+    </string-array>
+</resources>
